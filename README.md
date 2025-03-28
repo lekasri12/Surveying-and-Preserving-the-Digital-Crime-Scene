@@ -50,10 +50,12 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 ![](./images/a6.png)
 
+![Screenshot 2025-03-28 084850](https://github.com/user-attachments/assets/c521d64f-0152-45d0-94a9-9d3aa3bbe325)
 
 
 - Click **Deleted Files** → Find your deleted images.  
 - Right-click an image → Click **Extract File**.
+![Screenshot 2025-03-28 090042](https://github.com/user-attachments/assets/37ae198e-3389-4eb1-ad47-318d9a8e1a47)
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
