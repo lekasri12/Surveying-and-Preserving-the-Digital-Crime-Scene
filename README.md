@@ -1,4 +1,6 @@
 # Surveying and Preserving the Digital Crime Scene
+## Register number: 212223100025
+## Name: G Lekasri
 
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
@@ -48,12 +50,10 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 ![](./images/a6.png)
 
-![](./images/a7.png)
+
 
 - Click **Deleted Files** → Find your deleted images.  
-- Right-click an image → Click **Extract File**.  
-
-![](./images/a8.png)
+- Right-click an image → Click **Extract File**.
 
 - Select a folder to see the recovered files (e.g., `C:\forensic`).  
 - Image is recovered successfully.
@@ -61,13 +61,15 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 
 ## Output :
 ### Folder before deleting the files
-![](./images/f1.png)
+![Screenshot 2025-03-28 084229](https://github.com/user-attachments/assets/f043d359-3eea-4502-90ed-ea543baaeeb4)
+
 
 ### Folder after deleting the files
-![](./images/a9.png)
+![Screenshot 2025-03-28 085428](https://github.com/user-attachments/assets/d4ad6745-5d61-4b00-a7a7-9f7152e64dc3)
+
 
 ### Folder after extracting the deleted images using autopsy
-![](./images/a10.png)
+![Screenshot 2025-03-28 085114](https://github.com/user-attachments/assets/535d88ef-18b1-4863-b752-b3ca5bcc137b)
 
 ## Result:
 Successfully extracted the deleted files from unallocated space using the Autospy tool.
